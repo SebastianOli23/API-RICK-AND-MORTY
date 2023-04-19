@@ -1,0 +1,167 @@
+
+body {
+    background-color: #141418;
+    color: #fff ;
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  .navbar {
+    background-color: #6B8E23;
+  }
+  
+  .btn-primary {
+    background-color: #6B8E23;
+    border-color: #6B8E23;
+  }
+  
+  .btn-primary:hover {
+    background-color: #6B8E23;
+    border-color: #6B8E23;
+  }
+  
+
+  
+  .card {
+    background-color: #141418;
+    color: #fff;
+    border-color: #6B8E23;
+  }
+  
+  .card:hover {
+    background-color: #6B8E23;
+    color: #141418;
+  }
+  
+  .btn-danger {
+    background-color: #FF6B6B;
+    border-color: #FF6B6B;
+  }
+  
+  .btn-danger:hover {
+    background-color: #F5BF42;
+    border-color: #F5BF42;
+  }
+  
+  .btn-warning {
+    background-color: #FFA372;
+    border-color: #FFA372;
+  }
+  
+  .btn-warning:hover {
+    background-color: #F5BF42;
+    border-color: #F5BF42;
+  }
+
+  .navbar {
+    background-color: #6B8E23;
+    border-bottom: 3px solid #6B8E23;
+  }
+  
+  .nav-link {
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 1rem;
+  }
+  
+  .nav-link:hover {
+    color: #fff;
+    background-color: #6B8E23;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .navbar-brand:hover {
+    color: #6B8E23;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('https://rickandmortyapi.com/api/character/avatar/1.jpeg');
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    border-radius: 50%;
+    border: 1px solid #6B8E23;
+  }
+  
+  .navbar-toggler {
+    border: none;
+    outline: none;
+  }
+  #currentPage {
+    color: transparent;
+    display: none;
+  }
+  footer {
+    background-color: #090B22;
+    color: #fff;
+    padding: 40px 0;
+  }
+
+  .footer-info h3 {
+    color: #6B8E23;
+  }
+
+  .footer-links a {
+    color: #6B8E23;
+    
+  }
+
+  .footer-links a:hover {
+    background-color: #6B8E23;
+    color: #090B22;
+  }
+
+  .footer-extra h3 {
+    color: #6B8E23;
+  }
+
+  .footer-extra ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .footer-extra ul li a:hover {
+    color: #6B8E23;
+  }
+
+  .footer-extra form input[type="email"] {
+    background-color: #090B22;
+    border: none;
+    border-bottom: 1px solid #6B8E23;
+    color: #fff;
+    padding: 5px;
+    margin-right: 10px;
+  }
+
+  .footer-extra form button[type="submit"] {
+    background-color: #6B8E23;
+    color: #090B22;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  .footer-extra form button[type="submit"]:hover {
+    background-color: #090B22;
+    color: #6B8E23;
+  }
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+   
